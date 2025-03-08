@@ -1,0 +1,1 @@
+Hi , I am learning machine learning concept based on that i create a simple and very familiar project ( chronic disease prediction). it is for just for reference and i will not recommend to use this code.
